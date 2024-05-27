@@ -1,1 +1,1 @@
-# PORDIGY_SD_TemperatureConversion_Task_01
+# PORDIGY_SD_Internship_All_Tasks_1,2,3
