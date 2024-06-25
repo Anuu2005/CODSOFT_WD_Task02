@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../calculator"
+		},
+		{
+			"path": "../Task 2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Codsoft"
+	}
+}
